@@ -15,49 +15,49 @@ export default function Home(props) {
         code: '155523',
         price: 555,
         count: 10,
-        catagory: 'l,,l,;',
+        catagory: 'aaaaaaaaaaaaa',
         onSale: false
     },{
         id: 3,
         code: '155523',
         price: 555,
         count: 10,
-        catagory: 'l,,l,;',
+        catagory: 'aaaaaaaaaaaaa',
         onSale: false
     },{
         id: 4,
         code: '155523',
         price: 555,
         count: 10,
-        catagory: 'l,,l,;',
+        catagory: 'aaaaaaaaaaaaa',
         onSale: false
     },{
         id: 5,
         code: '155523',
         price: 555,
         count: 10,
-        catagory: 'l,,l,;',
+        catagory: 'aaaaaaaaaaaaa',
         onSale: false
     },{
         id: 6,
         code: '155523',
         price: 555,
         count: 10,
-        catagory: 'l,,l,;',
+        catagory: 'aaaaaaaaaaaaa',
         onSale: false
     },{
         id: 7,
         code: '155523',
         price: 555,
         count: 10,
-        catagory: 'l,,l,;',
+        catagory: 'aaaaaaaaaaaaa',
         onSale: false
     },{
         id:  8,
         code: '155523',
         price: 555,
         count: 10,
-        catagory: 'l,,l,;',
+        catagory: 'jjjjjj',
         onSale: false
     }
 
