@@ -5,57 +5,57 @@ export default function Home(props) {
     
     const [prodects, setProdect] = useState([{
         id: 1,
-        code: '123',
+        code: '155521',
         price: 100,
         count: 10,
         catagory: 'kJDWSKHBw',
         onSale: true
     },{
         id: 2,
-        code: '155523',
-        price: 555,
+        code: '155522',
+        price: 200,
         count: 10,
         catagory: 'aaaaaaaaaaaaa',
-        onSale: false
+        onSale: true
     },{
         id: 3,
         code: '155523',
-        price: 555,
+        price: 300,
         count: 10,
         catagory: 'aaaaaaaaaaaaa',
         onSale: false
     },{
         id: 4,
-        code: '155523',
-        price: 555,
+        code: '155524',
+        price: 400,
         count: 10,
         catagory: 'aaaaaaaaaaaaa',
         onSale: false
     },{
         id: 5,
-        code: '155523',
-        price: 555,
+        code: '155525',
+        price: 500,
         count: 10,
         catagory: 'aaaaaaaaaaaaa',
         onSale: false
     },{
         id: 6,
-        code: '155523',
-        price: 555,
+        code: '155526',
+        price: 600,
         count: 10,
         catagory: 'aaaaaaaaaaaaa',
         onSale: false
     },{
         id: 7,
-        code: '155523',
-        price: 555,
+        code: '155527',
+        price: 700,
         count: 10,
         catagory: 'aaaaaaaaaaaaa',
         onSale: false
     },{
         id:  8,
-        code: '155523',
-        price: 555,
+        code: '155528',
+        price: 800,
         count: 10,
         catagory: 'jjjjjj',
         onSale: false
