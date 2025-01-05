@@ -6,7 +6,6 @@ export default function Aboute(props) {
     <div className='w-1/4 p-4 col-md-4   '>
         <div className='p-6 position-relative shadow-xl rounded-xl bg-gray-200 text-bg-dark'>
 
-<h4>{props.prodectIndex}</h4>
 <h4>Code:{code}</h4>
 <h4>Price:{price}</h4>
 <h4>Count:{count}</h4>

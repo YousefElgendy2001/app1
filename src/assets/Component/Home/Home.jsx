@@ -16,14 +16,14 @@ export default function Home(props) {
         price: 200,
         count: 10,
         catagory: 'aaaaaaaaaaaaa',
-        onSale: true
+        onSale: false
     },{
         id: 3,
         code: '155523',
         price: 300,
         count: 10,
         catagory: 'aaaaaaaaaaaaa',
-        onSale: false
+        onSale: true
     },{
         id: 4,
         code: '155524',
@@ -37,7 +37,7 @@ export default function Home(props) {
         price: 500,
         count: 10,
         catagory: 'aaaaaaaaaaaaa',
-        onSale: false
+        onSale: true
     },{
         id: 6,
         code: '155526',
@@ -51,7 +51,7 @@ export default function Home(props) {
         price: 700,
         count: 10,
         catagory: 'aaaaaaaaaaaaa',
-        onSale: false
+        onSale: true
     },{
         id:  8,
         code: '155528',
